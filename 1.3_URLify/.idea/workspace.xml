@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7232ad6e-cb2e-47a2-93ab-c7c08c477892" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.3_URLify.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/1.4_palindromePermutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/src/PalindromePermutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.1_isUnique/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.1_isUnique/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.2_checkPermutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.2_checkPermutation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/URLify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="139">
+              <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -82,7 +83,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="488" />
-    <option name="y" value="80" />
+    <option name="y" value="110" />
     <option name="width" value="1187" />
     <option name="height" value="839" />
   </component>
@@ -115,7 +116,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538094379806" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538624283762" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -195,7 +196,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="488" y="80" width="1187" height="839" extended-state="0" />
+    <frame x="488" y="110" width="1187" height="839" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -232,8 +233,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/URLify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="139">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
         </state>
       </provider>
     </entry>
