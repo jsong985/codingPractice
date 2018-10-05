@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc5253d3-ff3b-4bfc-9f60-c83ac1f50f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/1.4_palindromePermutation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/src/PalindromePermutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.1_isUnique/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.1_isUnique/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.3_URLify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.3_URLify/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +17,7 @@
     <session id="-500639211">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -116,7 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538624283744" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538624357522" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -197,7 +191,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="488" y="110" width="1187" height="839" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -212,7 +205,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32931727" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

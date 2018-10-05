@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d92ec060-b575-46bc-9777-0ca4feb81f02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/1.4_palindromePermutation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/src/PalindromePermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.2_checkPermutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.2_checkPermutation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1.3_URLify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.3_URLify/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.4_palindromePermutation/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +17,7 @@
     <session id="-1436080195">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="2" />
@@ -199,7 +192,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="88" width="1187" height="839" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25414848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -210,7 +202,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
